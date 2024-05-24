@@ -20,6 +20,8 @@ Emotion detection extends the concept of sentiment analysis by extracting the fi
     This is the original project link: [https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git](https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git) but I have cloned it on my local machine and pushed it again on new repo for a purpose of using it in the VS Code IDE, linked with the following link: [https://github.com/zamelkev/Final-Project-Emotion-Detector](https://github.com/zamelkev/Final_Project-Emotion_Detector) and uploaded into my own repo.
 
 - #### Task 2: Create an emotion detection application using Watson NLP library
+    Utilize the Watson NLP library to develop an emotion detection application. This application will analyze text input and identify the underlying emotions.
+    
 - #### Task 3: Format the output of the application
 - #### Task 4: Package the application
 - #### Task 5: Run Unit tests on your application
