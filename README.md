@@ -21,8 +21,10 @@ Emotion detection extends the concept of sentiment analysis by extracting the fi
 
 - #### Task 2: Create an emotion detection application using Watson NLP library
     Utilize the Watson NLP library to develop an emotion detection application. This application will analyze text input and identify the underlying emotions.
-    
+
 - #### Task 3: Format the output of the application
+    Ensure that the output of your emotion detection application is well-formatted and user-friendly. Users should be able to understand the emotions identified.
+
 - #### Task 4: Package the application
 - #### Task 5: Run Unit tests on your application
 - #### Task 6: Deploy as web application using Flask
