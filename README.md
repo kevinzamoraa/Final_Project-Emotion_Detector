@@ -26,6 +26,8 @@ Emotion detection extends the concept of sentiment analysis by extracting the fi
     Ensure that the output of your emotion detection application is well-formatted and user-friendly. Users should be able to understand the emotions identified.
 
 - #### Task 4: Package the application
+    Package your application for ease of deployment. You should have a clear and concise set of instructions for deploying it.
+
 - #### Task 5: Run Unit tests on your application
 - #### Task 6: Deploy as web application using Flask
 - #### Task 7: Incorporate Error handling
